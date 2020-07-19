@@ -1,0 +1,6 @@
+
+all indirectly depend on sizeof(size_t) to be at least 32bit
+
+ASCII indirectly depends on sizeof(char) to be 8 bits
+UTF 8 indirectly depends on sizeof(char) to be 8 bits
+UTF 16 indirectly depends on sizeof(char) to be 8 bits
