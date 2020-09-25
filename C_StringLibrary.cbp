@@ -57,17 +57,29 @@
 		</Unit>
 		<Unit filename="str_string.c">
 			<Option compilerVar="CC" />
-			<Option target="Debug" />
-			<Option target="Release" />
 		</Unit>
-		<Unit filename="str_string.h">
-			<Option target="Debug" />
-			<Option target="Release" />
+		<Unit filename="str_string.h" />
+		<Unit filename="str_string_ansi.c">
+			<Option compilerVar="CC" />
 		</Unit>
-		<Extensions>
-			<code_completion />
-			<envvars />
-			<debugger />
-		</Extensions>
+		<Unit filename="str_string_ansi.h" />
+		<Unit filename="str_string_convert.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="str_string_convert.h" />
+		<Unit filename="str_string_globals.h" />
+		<Unit filename="str_string_utf16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="str_string_utf16.h" />
+		<Unit filename="str_string_utf32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="str_string_utf32.h" />
+		<Unit filename="str_string_utf8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="str_string_utf8.h" />
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
